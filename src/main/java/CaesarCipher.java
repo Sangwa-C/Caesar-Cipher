@@ -17,6 +17,29 @@ public class CaesarCipher {
             if(text >= 'a' && text <= 'z'){
                 text = (char)(text + koti);
             }
+            if(text >= 'a' && text <= 'z'){
+                text = (char)(text + koti);
+
+                if(text > 'z'){
+                    text = (char)(text - 'z' + 'a' - 1);
+                    }
+
+                    ciphertext  += text;
+                }
+                else if(text >= 'A' && text <= 'Z'){
+                    text = (char)(text + koti);
+
+                    if(text > 'Z'){
+                        text = (char)(text - 'Z' + 'A' - 1);
+                    }
+
+                    ciphertext += text;
+                }
+                else {
+                    ciphertext += text;
+                }
+            }
+
+            System.out.println("Encrypted Message = " + ciphertext);
         }
-    }
-}
+        }
