@@ -4,7 +4,10 @@ import java.util.Scanner;
 
 public class CaesarCipher {
     public static void main(String args[]) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Write your message ....");
+        Scanner cece= new Scanner(System.in);
+        System.out.println(" Write your message here ....");
+        int koti;
+        char toti;
+
     }
 }
