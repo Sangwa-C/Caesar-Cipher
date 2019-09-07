@@ -10,7 +10,7 @@ This is an app that helps the user encrypt the message using ceaser cliper metho
 * Connect to the internet
 * Open your browser
 * In your browser adress bar type the following
-* https://sangwa-c.github.io/hub/
+* https://sangwa-c.github.io/Caesar-Cipher/
 * then you will directly be on their page
 
 
@@ -26,8 +26,8 @@ This is an app that helps the user encrypt the message using ceaser cliper metho
     Input Example:  Message: "hello word"
                     shift: 2
 
-    Output Example:  
-
+    Output Example:  jgnnqyqtnf
+ 
 ## Known Bugs
 This webpage is not suitable for all screen sizes.
 
@@ -41,4 +41,4 @@ This webpage is not suitable for all screen sizes.
 If you any issues or have questions, ideas or concerns contact us on chelseasabinesangwa@gmail.com.
 
 ### License
-MIT Copyright (c) 2019 Sangwa Sabine Chelsea. #Github_Search 
+MIT Copyright (c) 2019 Sangwa Sabine Chelsea. #Ceasar_Cliper 
