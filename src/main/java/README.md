@@ -18,31 +18,24 @@ This is an app that helps the user encrypt the message using ceaser cliper metho
 
 **The program should accept input from the user.**
 
-    Input Example: daneden
+    Input Example: Message: "hello word"
+                   shift: 2
 
 **The program should return when the user enter a message to be sent** 
 
-    Input Example:  daneden
+    Input Example:  Message: "hello word"
+                    shift: 2
 
-    Input Example:  Name: Daniel Eden
-
-                    Email:dan.eden@me.com
-
-                    Number of repositories: 69
-
-                    Followers: 5637
-
-                    Following: 91
-
-                    Created on: Oct 14, 2010
-
-                    Bio: Designer, writing & thinking about Design Systems.
+    Output Example:  
 
 ## Known Bugs
 This webpage is not suitable for all screen sizes.
 
 ## Technologies Used
-* This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
+* HTML
+* CSS
+* Bootstrap
+* Java
  
 ## Support and contact details
 If you any issues or have questions, ideas or concerns contact us on chelseasabinesangwa@gmail.com.
