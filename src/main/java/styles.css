@@ -16,6 +16,7 @@ h1{
 p{
     font-family: 'Playfair Display', serif;
     font-size:1.6em;
+    color:white;
 }
 
 .well{
@@ -44,6 +45,7 @@ button{
     text-align:center;
     margin-top:50px;
     margin-left:330px;
+    font-size:1.5em;
 }
 
 footer{
