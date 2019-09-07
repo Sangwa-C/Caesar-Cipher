@@ -42,6 +42,6 @@ public class CaesarCipher {
                 }
             }
 
-            System.out.println("Encrypted Message = " + Ceasartext);
+            System.out.println("Encrypted Message is " + Ceasartext);
         }
-        }
+    }
