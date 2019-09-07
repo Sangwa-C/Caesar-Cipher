@@ -40,9 +40,6 @@ public class CaesarCipher {
 
                     Ceasartext += text;
                 }
-//                else {
-//                    Ceasartext += text;
-//                }
             }
 
             System.out.println("Encrypted Message = " + Ceasartext);
