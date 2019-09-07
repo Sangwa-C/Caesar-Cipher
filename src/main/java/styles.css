@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://backgrounddownload.com/wp-content/uploads/2018/09/background-high-quality-3.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    color:white;
+}
+
+h1{
+    text-align:center;
+    margin-top:40px;
+    margin-bottom:50px;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size:3em;
+}
+
+p{
+font-family: 'Playfair Display', serif;
+font-size:1.6em;
+}
+
+.well{
+    width:60%;
+}
+
