@@ -1,21 +1,10 @@
 import java.util.Scanner;
 
 public class Decryption {
-    public static void main(String [] args) {
+    public static String kuku (String answer, int koti) {
 
-        String answer;
-        int koti;
         char text;
         String Normaltext = " ";
-
-        Scanner cece= new Scanner(System.in);
-
-        System.out.println(" Write your message here ....");
-        answer= cece.nextLine();
-
-        System.out.println("Write a shift value...... ");
-        koti = cece.nextInt();
-
 
         for(int i = 0; i < answer.length();++i){
             text=answer.charAt(i);
@@ -40,7 +29,9 @@ public class Decryption {
             }
         }
 
-        System.out.println("Decrepted Message is  = " + Normaltext);
+//        System.out.println("Decrepted Message is  = " + Normaltext);
+
+        return Normaltext;
     }
 }
 

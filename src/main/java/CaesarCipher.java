@@ -3,21 +3,10 @@ import java.util.List;
 import java.util.Scanner;
 
 public class CaesarCipher {
-    public static void main(String [] args) {
+    public static String kiki (String answer, int koti){
 
-        String answer;
-        int koti;
         char text;
         String Ceasartext = " ";
-
-        Scanner cece= new Scanner(System.in);
-
-        System.out.println(" Write your message here ....");
-       answer= cece.nextLine();
-
-        System.out.println("Write a shift value...... ");
-        koti = cece.nextInt();
-
 
         for(int i = 0; i < answer.length();++i){
             text=answer.charAt(i);
@@ -42,6 +31,7 @@ public class CaesarCipher {
                 }
             }
 
-            System.out.println("Encrypted Message is " + Ceasartext);
+//            System.out.println("Encrypted Message is " + Ceasartext);
+        return Ceasartext;
         }
     }
