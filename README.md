@@ -26,7 +26,17 @@ This is an app that helps the user encrypt the message using ceaser cliper metho
     Sytem: "Write a shift value......"
     Input Example:2
     Output Example:  jgnnqyqtnf
- 
+    
+**The program should return when the user enter a message to be Decrypted** 
+
+    System: "Would like to Encrypt or Decrypt a message"
+    Input Example: Message: "Decrypt"
+    System: " Write your message here ...."
+    Input Example: "jgnnqyqtnf"
+    Sytem: "Write a shift value......"
+    Input Example: 2
+    Output Example: "hello word"
+    
 ## Known Bugs
 This webpage is not suitable for all screen sizes.
 
