@@ -38,9 +38,9 @@ This is an app that helps the user encrypt the message using ceaser cliper metho
     Output Example: "hello word"
  
  **Here are some screenshots from the project**
- ![App.java](src=app.png)
- ![CaesarCipher.java](src=cae.png)
- ![Decrption.java](src=dec.png)
+ ![App.java](src/app.png)
+ ![CaesarCipher.java](src/cae.png)
+ ![Decrption.java](src/dec.png)
     
 ## Known Bugs
 This webpage is not suitable for all screen sizes.
