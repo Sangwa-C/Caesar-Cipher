@@ -6,26 +6,25 @@
 
 This is an app that helps the user encrypt the message using ceaser cliper method.
 
-## Setup/Installation Requirements
-* Connect to the internet
-* Open your browser
-* In your browser adress bar type the following
-* https://sangwa-c.github.io/Caesar-Cipher/
-* then you will directly be on their page
-
-
 ## BDD
+
+**The program should ask the user what task she want to execute.**
+
+    System: "Would like to Encrypt or Decrypt a message"
 
 **The program should accept input from the user.**
 
-    Input Example: Message: "hello word"
-                   shift: 2
+    System: "Would like to Encrypt or Decrypt a message"
+    Input Example: Message: "Encrypt"
 
-**The program should return when the user enter a message to be sent** 
+**The program should return when the user enter a message to be Encrpted** 
 
+    System: "Would like to Encrypt or Decrypt a message"
+    Input Example: Message: "Encrypt"
+    System: " Write your message here ...."
     Input Example:  Message: "hello word"
-                    shift: 2
-
+    Sytem: "Write a shift value......"
+    Input Example:2
     Output Example:  jgnnqyqtnf
  
 ## Known Bugs
