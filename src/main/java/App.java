@@ -39,5 +39,7 @@ public class App {
             System.out.println("Encrypted Message is " +  text4.kuku(file,koko));
             System.out.println("#################################################");
         }
+
+        }
     }
 }
